@@ -1,7 +1,6 @@
-# Updated Pilot Implementation with PostgreSQL Backend and OpenWeb UI
+# Pilot Implementation with PostgreSQL Backend and OpenWeb UI
 
-In this updated version, we enhance the previous pilot implementation by integrating a PostgreSQL backend for data storage and an OpenWeb UI for user interaction. This setup allows for persistent data management and provides a user-friendly interface to interact with the agents, monitor progress, and manage projects.
-
+This pilot implementation demonstrates how to operationalize the Two-Agent LLM SDLC Method using the OpenRouter API, incorporating the specified constraints to strengthen the model. We’ll create multiple agents belonging to different Large Language Models (LLMs), including assistant agents and verification agents, and orchestrate their interactions using system prompts.
 ---
 
 ## **Overview**
